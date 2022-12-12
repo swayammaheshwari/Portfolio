@@ -1,0 +1,7 @@
+/node_modules
+npm-debug.log
+.DS_Store
+.vscode
+/*.env
+Credit.txt
+License (Must Read).txt
